@@ -1,0 +1,31 @@
+{
+  "name": "brigaderia_completo_site",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "vite": "^7.3.1"
+  },
+  "main": "script.js",
+  "dependencies": {
+    "esbuild": "^0.27.3",
+    "fdir": "^6.5.0",
+    "nanoid": "^3.3.11",
+    "picocolors": "^1.1.1",
+    "picomatch": "^4.0.3",
+    "rollup": "^4.57.1",
+    "source-map-js": "^1.2.1",
+    "tinyglobby": "^0.2.15"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

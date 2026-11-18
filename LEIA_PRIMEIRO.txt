@@ -1,0 +1,1 @@
+ABRA README_ENTREGA.md — substitui instruções antigas de README.md e README_NUVEM.md. Não inclua .env no ZIP ou GitHub.

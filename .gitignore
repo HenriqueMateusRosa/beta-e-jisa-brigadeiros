@@ -1,0 +1,22 @@
+# Credenciais do banco de dados
+.env
+.env.*
+!.env.example
+
+# Ambientes virtuais Python
+env/
+venv/
+.venv/
+
+# Arquivos temporários Python
+__pycache__/
+*.pyc
+
+# Dependências Node.js
+node_modules/
+
+# Arquivos do sistema
+.DS_Store
+
+# Logs
+*.log
